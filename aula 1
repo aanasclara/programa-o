@@ -35,4 +35,5 @@ Qualidade e Padronização: A qualidade dos dados públicos é crucial. Dados im
 Segurança Cibernética: Dados públicos precisam ser protegidos contra ameaças cibernéticas para evitar violações de segurança e roubos de informações sensíveis.
 
 21/09
-1) 
+1) Na linguagem Phyton, a tipagem é dinâmica (não é necessário declarar explicitamente o tipo de variável), na linguagem Java a tipagem é estática (exige que você declare o tipo de variável, com verificação de tipo em tempo de compilação) e na linguagem C++, a tipagem também é estática (necessidade de declaração de tipos e suporte a ponteiros). 
+Sobre o gerenciamento de memória, a linguagem Phyton realiza o gerenciamento automaticamente, a Java também possui gerenciamento automático e a C++ requer que o programa gerencie manualmente a alocação e desalocação de memória usando ponteiros (propenso a erros). 
