@@ -37,3 +37,19 @@ Segurança Cibernética: Dados públicos precisam ser protegidos contra ameaças
 21/09
 1) Na linguagem Phyton, a tipagem é dinâmica (não é necessário declarar explicitamente o tipo de variável), na linguagem Java a tipagem é estática (exige que você declare o tipo de variável, com verificação de tipo em tempo de compilação) e na linguagem C++, a tipagem também é estática (necessidade de declaração de tipos e suporte a ponteiros). 
 Sobre o gerenciamento de memória, a linguagem Phyton realiza o gerenciamento automaticamente, a Java também possui gerenciamento automático e a C++ requer que o programa gerencie manualmente a alocação e desalocação de memória usando ponteiros (propenso a erros). 
+
+Código em Phyton: import sys
+import json
+
+class Product:
+    def __init__(self, name, price, discount=0):
+        self.name = name
+        self.price = price
+        self.discount = discount
+
+Código em Java: public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+
+Código em C++:
