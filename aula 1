@@ -52,4 +52,8 @@ Código em Java: public static void main(String[] args) {
     }
 }
 
-Código em C++:
+Código em C++:class Program {
+    static void Main(string[] args) {
+        Console.WriteLine("Hello, World!");
+    }
+}
